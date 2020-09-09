@@ -1,0 +1,75 @@
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\ET\bin\Debug\ET.dll
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\ET\bin\Debug\ET.pdb
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\ET\bin\Debug\ET.xml
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\ET\obj\Debug\ET.vbprojAssemblyReference.cache
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\ET\obj\Debug\ET.Resources.resources
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\ET\obj\Debug\ET.vbproj.GenerateResource.cache
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\ET\obj\Debug\ET.dll
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\ET\obj\Debug\ET.xml
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\ET\obj\Debug\ET.pdb
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\bin\Debug\ET.dll
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\bin\Debug\ET.pdb
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\bin\Debug\ET.xml
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.Resources.resources
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.vbproj.GenerateResource.cache
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.dll
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.xml
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.pdb
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.vbprojAssemblyReference.cache
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\bin\Debug\ET.dll
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\bin\Debug\ET.pdb
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\bin\Debug\ET.xml
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.vbprojAssemblyReference.cache
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.Resources.resources
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.vbproj.GenerateResource.cache
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.dll
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.xml
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.pdb
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\bin\Debug\ET.dll
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\bin\Debug\ET.pdb
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\bin\Debug\ET.xml
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.Resources.resources
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.vbproj.GenerateResource.cache
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.dll
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.xml
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.pdb
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\bin\Debug\ET.dll
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\bin\Debug\ET.pdb
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\bin\Debug\ET.xml
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.vbprojAssemblyReference.cache
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.Resources.resources
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.vbproj.GenerateResource.cache
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.vbproj.CoreCompileInputs.cache
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.dll
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.xml
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.pdb
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\ET\bin\Debug\ET.dll
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\ET\bin\Debug\ET.pdb
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\ET\bin\Debug\ET.xml
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\ET\obj\Debug\ET.vbprojAssemblyReference.cache
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\ET\obj\Debug\ET.Resources.resources
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\ET\obj\Debug\ET.vbproj.GenerateResource.cache
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\ET\obj\Debug\ET.vbproj.CoreCompileInputs.cache
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\ET\obj\Debug\ET.dll
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\ET\obj\Debug\ET.xml
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\ET\obj\Debug\ET.pdb
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\bin\Debug\ET.dll
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\bin\Debug\ET.pdb
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\bin\Debug\ET.xml
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.vbprojAssemblyReference.cache
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.Resources.resources
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.vbproj.GenerateResource.cache
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.vbproj.CoreCompileInputs.cache
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.dll
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.xml
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\ET\obj\Debug\ET.pdb
+C:\Users\JG_Al\Documents\Programacion\Calidad\ET\bin\Debug\ET.dll
+C:\Users\JG_Al\Documents\Programacion\Calidad\ET\bin\Debug\ET.pdb
+C:\Users\JG_Al\Documents\Programacion\Calidad\ET\bin\Debug\ET.xml
+C:\Users\JG_Al\Documents\Programacion\Calidad\ET\obj\Debug\ET.vbprojAssemblyReference.cache
+C:\Users\JG_Al\Documents\Programacion\Calidad\ET\obj\Debug\ET.Resources.resources
+C:\Users\JG_Al\Documents\Programacion\Calidad\ET\obj\Debug\ET.vbproj.GenerateResource.cache
+C:\Users\JG_Al\Documents\Programacion\Calidad\ET\obj\Debug\ET.vbproj.CoreCompileInputs.cache
+C:\Users\JG_Al\Documents\Programacion\Calidad\ET\obj\Debug\ET.dll
+C:\Users\JG_Al\Documents\Programacion\Calidad\ET\obj\Debug\ET.xml
+C:\Users\JG_Al\Documents\Programacion\Calidad\ET\obj\Debug\ET.pdb

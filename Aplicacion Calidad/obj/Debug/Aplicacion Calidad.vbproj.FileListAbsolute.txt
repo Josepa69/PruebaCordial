@@ -1,0 +1,297 @@
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe.config
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe.manifest
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.application
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.pdb
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.xml
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\ET.dll
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\ET.pdb
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\ET.xml
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Interop.WMPLib.dll
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbprojAssemblyReference.cache
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Interop.WMPLib.dll
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.ResolveComReference.cache
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.FrmCampaña.resources
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmControlRegistro.resources
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmEvaluador.resources
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.Resources.resources
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmAsociarGrabacion.resources
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.GenerateResource.cache
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.exe.manifest
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.application
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.CopyComplete
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.exe
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.xml
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.pdb
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe.config
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe.manifest
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.application
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.pdb
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.xml
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\ET.dll
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\ET.pdb
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\ET.xml
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbprojAssemblyReference.cache
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.ResolveComReference.cache
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.FrmCampaña.resources
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmControlRegistro.resources
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmEvaluador.resources
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.Resources.resources
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmAsociarGrabacion.resources
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.GenerateResource.cache
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.exe.manifest
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.application
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.CopyComplete
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.exe
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.xml
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.pdb
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe.config
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe.manifest
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.application
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.pdb
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.xml
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\ET.dll
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\ET.pdb
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\ET.xml
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbprojAssemblyReference.cache
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.ResolveComReference.cache
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmCambioEyO.resources
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.FrmCampaña.resources
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmControlRegistro.resources
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmEvaluador.resources
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmMenu.resources
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.Resources.resources
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmAsociarGrabacion.resources
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.GenerateResource.cache
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.exe.manifest
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.application
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.CopyComplete
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.exe
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.xml
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.pdb
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe.config
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe.manifest
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.application
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.pdb
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.xml
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\ET.dll
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\ET.pdb
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\ET.xml
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Interop.WMPLib.dll
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbprojAssemblyReference.cache
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Interop.WMPLib.dll
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.ResolveComReference.cache
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmCambioEyO.resources
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.FrmCampaña.resources
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmControlRegistro.resources
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmEvaluador.resources
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmMenu.resources
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.Resources.resources
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmAsociarGrabacion.resources
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.GenerateResource.cache
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.exe.manifest
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.application
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.CopyComplete
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.exe
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.xml
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.pdb
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe.config
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe.manifest
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.application
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.pdb
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.xml
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\ET.dll
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\ET.pdb
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\ET.xml
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Interop.WMPLib.dll
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbprojAssemblyReference.cache
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Interop.WMPLib.dll
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.ResolveComReference.cache
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmCambioEyO.resources
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.FrmCampaña.resources
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmControlRegistro.resources
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmEvaluador.resources
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmMenu.resources
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmModificarRegistro.resources
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.Resources.resources
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmAsociarGrabacion.resources
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.GenerateResource.cache
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.exe.manifest
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.application
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.CopyComplete
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.exe
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.xml
+C:\Users\LenovoT450\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.pdb
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe.config
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe.manifest
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.application
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.pdb
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.xml
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\ET.dll
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\ET.pdb
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\ET.xml
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Interop.WMPLib.dll
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbprojAssemblyReference.cache
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Interop.WMPLib.dll
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.ResolveComReference.cache
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmCambioEyO.resources
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.FrmCampaña.resources
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmControlRegistro.resources
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmEvaluador.resources
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmMenu.resources
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmModificarRegistro.resources
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.Resources.resources
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmAsociarGrabacion.resources
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.GenerateResource.cache
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.CoreCompileInputs.cache
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.exe.manifest
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.application
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.CopyComplete
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.exe
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.xml
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.pdb
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe.config
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe.manifest
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.application
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.pdb
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.xml
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\ET.dll
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\ET.pdb
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\ET.xml
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Interop.WMPLib.dll
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbprojAssemblyReference.cache
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Interop.WMPLib.dll
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.ResolveComReference.cache
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmCambioEyO.resources
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.FrmCampaña.resources
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmControlRegistro.resources
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmEvaluador.resources
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmMenu.resources
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmModificarRegistro.resources
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.Resources.resources
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmAsociarGrabacion.resources
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.GenerateResource.cache
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.CoreCompileInputs.cache
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.exe.manifest
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.application
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.CopyComplete
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.exe
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.xml
+C:\Users\JG_Al\Documents\JP\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.pdb
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe.config
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe.manifest
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.application
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.pdb
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.xml
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\ET.dll
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\ET.pdb
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\ET.xml
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\Interop.WMPLib.dll
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbprojAssemblyReference.cache
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Interop.WMPLib.dll
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.ResolveComReference.cache
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmCambioEyO.resources
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.FrmCampaña.resources
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmControlRegistro.resources
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmEvaluador.resources
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmMenu.resources
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmModificarRegistro.resources
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.Resources.resources
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmAsociarGrabacion.resources
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.GenerateResource.cache
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.CoreCompileInputs.cache
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.exe.manifest
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.application
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.CopyComplete
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.exe
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.xml
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\Aplicacion Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.pdb
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbprojAssemblyReference.cache
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\obj\Debug\Interop.WMPLib.dll
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.ResolveComReference.cache
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmCambioEyO.resources
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.FrmCampaña.resources
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmControlRegistro.resources
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmEvaluador.resources
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmMenu.resources
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmModificarRegistro.resources
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.Resources.resources
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmAsociarGrabacion.resources
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.GenerateResource.cache
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.CoreCompileInputs.cache
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.exe
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.xml
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.pdb
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe.config
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe.manifest
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.application
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.pdb
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.xml
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\bin\Debug\ET.dll
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\bin\Debug\ET.pdb
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\bin\Debug\ET.xml
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\bin\Debug\Interop.WMPLib.dll
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.exe.manifest
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.application
+C:\Users\JG_Al\Documents\Programacion\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.CopyComplete
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe.config
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe.manifest
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.application
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.exe
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.pdb
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\bin\Debug\Aplicacion Calidad.xml
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\bin\Debug\ET.dll
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\bin\Debug\ET.pdb
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\bin\Debug\ET.xml
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\bin\Debug\Interop.WMPLib.dll
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbprojAssemblyReference.cache
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\obj\Debug\Interop.WMPLib.dll
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.ResolveComReference.cache
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmCambioEyO.resources
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.FrmCampaña.resources
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmControlRegistro.resources
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmEvaluador.resources
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmMenu.resources
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmModificarRegistro.resources
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.Resources.resources
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion_Calidad.frmAsociarGrabacion.resources
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.GenerateResource.cache
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.CoreCompileInputs.cache
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.exe.manifest
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.application
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.vbproj.CopyComplete
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.exe
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.xml
+C:\Users\JG_Al\Documents\Programas\Calidad\Aplicacion Calidad\obj\Debug\Aplicacion Calidad.pdb
