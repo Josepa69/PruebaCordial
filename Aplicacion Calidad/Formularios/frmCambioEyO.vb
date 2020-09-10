@@ -6,7 +6,7 @@ Public Class frmCambioEyO
     Private Sub btnBuscar_Click(sender As Object, e As EventArgs) Handles btnBuscar.Click
 
         If txtID.Text.Trim = "" Then
-            MsgBox("Debe ingresar ID para buscar un registro" & vbNewLine, MsgBoxStyle.Critical, "Error")
+            MsgBox("Debe ingresar el ID para buscar un registro" & vbNewLine, MsgBoxStyle.Critical, "Error")
             txtID.Focus()
             Exit Sub
         End If
@@ -150,7 +150,7 @@ Public Class frmCambioEyO
         End If
 
         If chkCambiarObs.Checked = True And txtObs.Text = "" Then
-            MsgBox("Debe ingresar una observación" & vbNewLine, MsgBoxStyle.Critical, "Error")
+            MsgBox("Debe ingresar una observacion" & vbNewLine, MsgBoxStyle.Critical, "Error")
             txtObs.Focus()
             Exit Sub
         End If
