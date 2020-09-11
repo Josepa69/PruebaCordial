@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9jA5l+yWUl7MjDH+2YBZKu8LWnRwr4j9v0KvkHjUVFS27c7rh3/KxUgXHol5JRj+ig1umg+88kHrJ2hNrDm7tQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Casa-Trabajo\\CORDIAL PHONE Dropbox\\cordialphone\\Operaciones CordialPhone\\PROGRAMACION\\AdministradorSupervisor\\Entidad\\Entidad.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Casa-Trabajo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Casa-Trabajo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,24 @@
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\Entidad\bin\Debug\netstandard2.0\Entidad.deps.json
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\Entidad\bin\Debug\netstandard2.0\Entidad.dll
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\Entidad\bin\Debug\netstandard2.0\Entidad.pdb
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\Entidad\obj\Debug\netstandard2.0\Entidad.vbprojAssemblyReference.cache
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\Entidad\obj\Debug\netstandard2.0\Entidad.AssemblyInfoInputs.cache
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\Entidad\obj\Debug\netstandard2.0\Entidad.AssemblyInfo.vb
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\Entidad\obj\Debug\netstandard2.0\Entidad.dll
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\Entidad\obj\Debug\netstandard2.0\Entidad.pdb
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\Entidad\bin\Debug\netstandard2.0\Entidad.deps.json
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\Entidad\bin\Debug\netstandard2.0\Entidad.dll
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\Entidad\bin\Debug\netstandard2.0\Entidad.pdb
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\Entidad\obj\Debug\netstandard2.0\Entidad.vbprojAssemblyReference.cache
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\Entidad\obj\Debug\netstandard2.0\Entidad.AssemblyInfoInputs.cache
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\Entidad\obj\Debug\netstandard2.0\Entidad.AssemblyInfo.vb
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\Entidad\obj\Debug\netstandard2.0\Entidad.dll
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\Entidad\obj\Debug\netstandard2.0\Entidad.pdb
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\Entidad\bin\Debug\netstandard2.0\Entidad.deps.json
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\Entidad\bin\Debug\netstandard2.0\Entidad.dll
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\Entidad\bin\Debug\netstandard2.0\Entidad.pdb
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\Entidad\obj\Debug\netstandard2.0\Entidad.vbprojAssemblyReference.cache
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\Entidad\obj\Debug\netstandard2.0\Entidad.AssemblyInfoInputs.cache
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\Entidad\obj\Debug\netstandard2.0\Entidad.AssemblyInfo.vb
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\Entidad\obj\Debug\netstandard2.0\Entidad.dll
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\Entidad\obj\Debug\netstandard2.0\Entidad.pdb

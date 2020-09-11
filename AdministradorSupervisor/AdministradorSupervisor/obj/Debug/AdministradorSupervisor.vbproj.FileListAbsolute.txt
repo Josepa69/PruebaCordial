@@ -1,0 +1,180 @@
+C:\Users\yanick\source\repos\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.exe.config
+C:\Users\yanick\source\repos\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.exe
+C:\Users\yanick\source\repos\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.pdb
+C:\Users\yanick\source\repos\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.xml
+C:\Users\yanick\source\repos\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.vbprojAssemblyReference.cache
+C:\Users\yanick\source\repos\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.Resources.resources
+C:\Users\yanick\source\repos\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.vbproj.GenerateResource.cache
+C:\Users\yanick\source\repos\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.exe
+C:\Users\yanick\source\repos\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.xml
+C:\Users\yanick\source\repos\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.pdb
+C:\Users\yanick\source\repos\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormMenu.resources
+C:\Users\yanick\source\repos\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.Ejecutivos.resources
+C:\Users\yanick\source\repos\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormCampaña.resources
+C:\Users\yanick\source\repos\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\System.Net.Http.dll
+C:\Users\yanick\source\repos\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\System.Net.Http.xml
+C:\Users\yanick\source\repos\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\es\System.Net.Http.resources.dll
+C:\Users\yanick\source\repos\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.vbproj.CopyComplete
+C:\Users\yanick\source\repos\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.exe.manifest
+C:\Users\yanick\source\repos\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.application
+C:\Users\yanick\source\repos\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.exe.manifest
+C:\Users\yanick\source\repos\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.application
+C:\Users\yanick\source\repos\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.LiberacionRegistros.resources
+C:\Users\yanick\source\repos\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.Proximamente.resources
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.exe.config
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.exe.manifest
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.application
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.exe
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.pdb
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.xml
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\System.Net.Http.dll
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\System.Net.Http.xml
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\es\System.Net.Http.resources.dll
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.vbprojAssemblyReference.cache
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.Ejecutivos.resources
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormCampaña.resources
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormMenu.resources
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.LiberacionRegistros.resources
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.Resources.resources
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.Proximamente.resources
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.vbproj.GenerateResource.cache
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.exe.manifest
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.application
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.vbproj.CopyComplete
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.exe
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.xml
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.pdb
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.frmCargaReferido.resources
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.vbprojAssemblyReference.cache
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.Ejecutivos.resources
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormCampaña.resources
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormMenu.resources
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.frmCargaReferido.resources
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FrmLiberaTerminados.resources
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.LiberacionRegistros.resources
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.Resources.resources
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.Proximamente.resources
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.vbproj.GenerateResource.cache
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.vbprojAssemblyReference.cache
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.Ejecutivos.resources
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormCampaña.resources
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormMenu.resources
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.frmCargaReferido.resources
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FrmLiberaTerminados.resources
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.LiberacionRegistros.resources
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.Resources.resources
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.Proximamente.resources
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.vbproj.GenerateResource.cache
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.exe.config
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.exe.manifest
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.application
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.exe
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.pdb
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.xml
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.vbprojAssemblyReference.cache
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.Ejecutivos.resources
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormAdministracionRegistros.resources
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormCampaña.resources
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormIngresarDatos.resources
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormMenu.resources
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.frmCargaReferido.resources
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FrmLiberaTerminados.resources
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.frmLiberacionBloqueados.resources
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.LiberacionRegistros.resources
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.Resources.resources
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.Proximamente.resources
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.vbproj.GenerateResource.cache
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.vbproj.CoreCompileInputs.cache
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.exe.manifest
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.application
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.exe
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.xml
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.pdb
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.vbprojAssemblyReference.cache
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.Ejecutivos.resources
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormAdministracionRegistros.resources
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormCampaña.resources
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormIngresarDatos.resources
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormMenu.resources
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.frmCargaReferido.resources
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FrmLiberaTerminados.resources
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.frmLiberacionBloqueados.resources
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.LiberacionRegistros.resources
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.Resources.resources
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.Proximamente.resources
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.vbproj.GenerateResource.cache
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.exe
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.xml
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.pdb
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.exe.config
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.exe.manifest
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.application
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.exe
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.pdb
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.xml
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.exe.manifest
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.application
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.exe.config
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.exe.manifest
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.application
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.exe
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.pdb
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.xml
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormAdministracionRegistros.resources
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormIngresarDatos.resources
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.frmLiberacionBloqueados.resources
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.vbproj.CoreCompileInputs.cache
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.exe.manifest
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.application
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.exe
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.xml
+C:\Users\Casa-Trabajo\Dropbox\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.pdb
+C:\Users\Casa-Trabajo\CORDIAL PHONE Dropbox\cordialphone\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.vbprojAssemblyReference.cache
+C:\Users\Casa-Trabajo\CORDIAL PHONE Dropbox\cordialphone\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.Ejecutivos.resources
+C:\Users\Casa-Trabajo\CORDIAL PHONE Dropbox\cordialphone\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormAdministracionRegistros.resources
+C:\Users\Casa-Trabajo\CORDIAL PHONE Dropbox\cordialphone\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormCampaña.resources
+C:\Users\Casa-Trabajo\CORDIAL PHONE Dropbox\cordialphone\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormIngresarDatos.resources
+C:\Users\Casa-Trabajo\CORDIAL PHONE Dropbox\cordialphone\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormMenu.resources
+C:\Users\Casa-Trabajo\CORDIAL PHONE Dropbox\cordialphone\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.frmCargaReferido.resources
+C:\Users\Casa-Trabajo\CORDIAL PHONE Dropbox\cordialphone\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FrmLiberaTerminados.resources
+C:\Users\Casa-Trabajo\CORDIAL PHONE Dropbox\cordialphone\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.frmLiberacionBloqueados.resources
+C:\Users\Casa-Trabajo\CORDIAL PHONE Dropbox\cordialphone\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.LiberacionRegistros.resources
+C:\Users\Casa-Trabajo\CORDIAL PHONE Dropbox\cordialphone\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.Resources.resources
+C:\Users\Casa-Trabajo\CORDIAL PHONE Dropbox\cordialphone\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.Proximamente.resources
+C:\Users\Casa-Trabajo\CORDIAL PHONE Dropbox\cordialphone\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.vbproj.GenerateResource.cache
+C:\Users\Casa-Trabajo\CORDIAL PHONE Dropbox\cordialphone\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.vbproj.CoreCompileInputs.cache
+C:\Users\Casa-Trabajo\CORDIAL PHONE Dropbox\cordialphone\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.exe
+C:\Users\Casa-Trabajo\CORDIAL PHONE Dropbox\cordialphone\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.xml
+C:\Users\Casa-Trabajo\CORDIAL PHONE Dropbox\cordialphone\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.pdb
+C:\Users\Casa-Trabajo\CORDIAL PHONE Dropbox\cordialphone\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.exe.config
+C:\Users\Casa-Trabajo\CORDIAL PHONE Dropbox\cordialphone\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.exe.manifest
+C:\Users\Casa-Trabajo\CORDIAL PHONE Dropbox\cordialphone\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.application
+C:\Users\Casa-Trabajo\CORDIAL PHONE Dropbox\cordialphone\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.exe
+C:\Users\Casa-Trabajo\CORDIAL PHONE Dropbox\cordialphone\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.pdb
+C:\Users\Casa-Trabajo\CORDIAL PHONE Dropbox\cordialphone\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.xml
+C:\Users\Casa-Trabajo\CORDIAL PHONE Dropbox\cordialphone\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.exe.manifest
+C:\Users\Casa-Trabajo\CORDIAL PHONE Dropbox\cordialphone\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.application
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.vbprojAssemblyReference.cache
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.Ejecutivos.resources
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormAdministracionRegistros.resources
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormCampaña.resources
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormIngresarDatos.resources
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FormMenu.resources
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.frmCargaReferido.resources
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.FrmLiberaTerminados.resources
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.frmLiberacionBloqueados.resources
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.LiberacionRegistros.resources
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.Resources.resources
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.Proximamente.resources
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.vbproj.GenerateResource.cache
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.exe
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.xml
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.pdb
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.exe.config
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.exe.manifest
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.application
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.exe
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.pdb
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\bin\Debug\AdministradorSupervisor.xml
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.exe.manifest
+C:\Users\Familia Gomez Zagal\CORDIAL PHONE Dropbox\Mauricio Gomez\Operaciones CordialPhone\PROGRAMACION\AdministradorSupervisor\AdministradorSupervisor\obj\Debug\AdministradorSupervisor.application
