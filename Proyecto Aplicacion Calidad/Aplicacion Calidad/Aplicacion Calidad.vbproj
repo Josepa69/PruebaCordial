@@ -142,6 +142,12 @@
     <Compile Include="Formularios\frmModificarRegistro.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Formularios\prueba.Designer.vb">
+      <DependentUpon>prueba.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\prueba.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="MdGeneral.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
